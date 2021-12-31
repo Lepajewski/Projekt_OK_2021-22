@@ -1,6 +1,6 @@
 # Projekt_OK_2021-22
 
-*sources* - contains all sources used in the project.
+*sources* - contains all sources used in the project, sources don't work because I have later changed the folder structure etc., TBU.
 * test_generator.cpp - generates random graphs, arguments: \#vertices, \#instances
 * triangle_histogram.cpp - counts \#triangles in graphs in given files and saves the results
 * find_holes.cpp - finds all holes in triangles occurrences and saves them
